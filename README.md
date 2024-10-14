@@ -33,5 +33,4 @@ Gonzalo Huelmo https://github.com/GonzaloHR/
 
 # Acknowledgments
 
-- Inspiration
-- etc
+Massive Thanks for building it, inspired principally by fellow AI Hackaton Mentors.
