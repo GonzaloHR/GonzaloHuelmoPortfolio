@@ -1,4 +1,4 @@
-# Ampas Theodoros Portfolio Website
+# Gonzalo Huelmo Portfolio Website
 
 This is a portfolio website that showcases my work, skills, and experiences. It includes information about me, my projects, and my contact details.
 
@@ -28,14 +28,10 @@ To install the website, follow these steps:
 
 ## Authors
 
-- Ampas Theodoros - [AmpasTheodoros](https://github.com/AmpasTheodoros)
+Gonzalo Huelmo https://github.com/GonzaloHR/
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+# Acknowledgments
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
 - Inspiration
 - etc
